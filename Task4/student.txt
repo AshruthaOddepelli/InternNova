@@ -1,0 +1,5 @@
+Name: Ashrutha
+Course: B.Tech CSE
+Subject: Python
+Topic: File Handling
+Week: 4
