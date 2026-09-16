@@ -1,0 +1,12 @@
+
+---
+
+# 3. `requirements.txt`
+
+This project uses only Python's **built-in modules**, so no external packages are required.
+
+```text
+# No external dependencies required.
+# Uses Python standard library modules:
+# abc
+# json
